@@ -1,7 +1,7 @@
 # **Project Title:** Onboarding with MS Forms, Automate, and Azure  
 
 ## **Project Description**  
-This project automates the user onboarding process using Microsoft Forms, Power Automate, and Azure Active Directory (Azure AD). It enhances identity and access management (IAM) by streamlining user provisioning, role assignments, and governance while addressing HR system limitations and enforcing security best practices.  
+This project automates the user onboarding process using Microsoft Forms, Power Automate, and Azure Active Directory (Entra ID). It enhances identity and access management (IAM) by streamlining user provisioning, role assignments, and governance while addressing HR system limitations and enforcing security best practices.  
 
 ## **Key Features**  
 
